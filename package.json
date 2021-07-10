@@ -1,0 +1,28 @@
+{
+  "name": "generator-ts-cli-app",
+  "version": "0.0.0",
+  "description": "TypeScript CLI app generator",
+  "files": [
+    "generators"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "alan lew <alan@ethereal.cc>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "~4.1",
+    "yeoman-generator": "~5.4",
+    "yosay": "~2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "~2.3"
+  }
+}

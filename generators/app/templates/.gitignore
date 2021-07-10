@@ -1,0 +1,10 @@
+# IDE settings
+.idea/
+*.iml
+.vscode/
+
+# Dependencies
+node_modules/
+
+# Output directory
+dist/
